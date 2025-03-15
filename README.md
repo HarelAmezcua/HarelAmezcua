@@ -1,4 +1,4 @@
-# Hi there, I'm [Harel] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi there, I'm Harel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 **Robotics Engineer • Machine Learning Enthusiast • Perpetual Explorer**
 
@@ -34,9 +34,8 @@
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/your-username/)  
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/your-username/)  
+- **Email**: [harelamezcua@gmail.com](mailto:harelamezcua@gmail.com)  
+- **LinkedIn**: [Harel Hernandez]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/harel-hernandez/))  
 
 ---
 
