@@ -35,7 +35,7 @@
 
 ## 📫 How to Reach Me
 - **Email**: [harelamezcua@gmail.com](mailto:harelamezcua@gmail.com)  
-- **LinkedIn**: [Harel Hernandez]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/harel-hernandez/))  
+- **LinkedIn**: [Harel Hernandez](https://www.linkedin.com/in/harel-hernandez/)  
 
 ---
 
